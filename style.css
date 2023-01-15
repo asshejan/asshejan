@@ -1,0 +1,11 @@
+p{
+color: brown;
+}
+h1{
+    color: aliceblue;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 15px;
+    padding: 2%;
+    text-align: center;
+}
