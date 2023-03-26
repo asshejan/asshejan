@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=asshejan&color=brightgreen)
 
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development<br><br>🌱 I’m currently learning java<br><br>💬 Ask me about C, Python, Arduino, CSS, HTML, Javascript
+🔭 I’m currently working on Problem Solving<br><br>🌱 I’m currently learning java<br><br>💬 Ask me about C, Python, Java, HTML, CSS, Javascript, Bootstrap, Tailwind.
 
 
 ## 🌐 Socials:
