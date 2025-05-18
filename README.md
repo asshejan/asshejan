@@ -31,11 +31,3 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asshejan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/asshejan/github-readme-stats)
 
-<!-- Visualized contributions -->
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=asshejan&theme=react-dark&bg_color=20232a&hide_border=true)
-
-<!-- Total Push Contributions -->
-### Lifetime and Yearly Pushes:
-![Push Contributions](https://github-contributor-stats.vercel.app/api?username=asshejan&theme=dark&hide_border=true&include_all_commits=true)
-
----
