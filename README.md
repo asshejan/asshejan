@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=asshejan&color=brightgreen)
 
 # 💫 About Me:
-🔭 I’m currently working on my problem solving and learning Data Science<br><br>💬 Ask me about C, C++, Python, Java, HTML, CSS, JavaScript, Bootstrap, Tailwind, Django, Wordpress.
+🔭 I’m currently an AI Engineer. Working on AI solutions and Machine Learning technologies.<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/as.shejan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shejannsu2022)
