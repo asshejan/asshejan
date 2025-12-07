@@ -6,9 +6,6 @@
 # 💫 About Me:
 🔭 I’m currently an AI Engineer. Working on AI solutions and Machine Learning technologies.<br><br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abusayeam.shejan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/asshejan)
-
 ### 🛠️ My Tech Stack & Tools
 
 #### **AI & Machine Learning**:
@@ -57,5 +54,19 @@
 </div>
 
 
-# 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asshejan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/asshejan/github-readme-stats)
+### 🌐 Let's Connect!
+
+I'm always open to discussions, collaborations, and opportunities. Feel free to reach out to me through any of the platforms below:
+
+<div align="center">
+  <a href="https://bd.linkedin.com/in/asshejan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/abusayeam.shejan/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+---
+
+Feel free to connect with me for collaboration, sharing ideas, or just having a friendly chat about the latest in AI, ML, and technology! 🚀
