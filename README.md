@@ -27,7 +27,7 @@
 ```yaml
 name: Abu Sayeam Shejan
 located_in: Bangladesh
-current_job: AI Developer
+current_job: AI Engineer
 education: ["Computer Science & Engineering"]
 company: Softvence, Betopia Group
 
