@@ -29,7 +29,7 @@ name: Abu Sayeam Shejan
 located_in: Bangladesh
 current_job: AI Engineer
 education: ["Computer Science & Engineering"]
-company: Betopia Group
+company: Omicon Group
 
 fields_of_interests: ["AI Engineer", "ML Engineer",  "DevOps", "MLOps"]
 technical_background: ["C,C++", "Python", "Java", "PyTorch", "Tensorflow", "Docker" "AWS",  "MongoDB","postgreSQL","MySQL"]
