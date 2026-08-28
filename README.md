@@ -38,7 +38,7 @@ hobbies: ["Movies", "Web Series", "Gaming", "Traveling", "Philosophy", "Politics
 ```
 
 ### 🚀 Quick Facts
-- 🔭 I'm currently working as an **AI Developer**
+- 🔭 I'm currently working as an **AI Engineer**
 - 🌱 I'm currently learning **Computer Science & Engineering**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Computer Vision, NLP, AI Agents**
