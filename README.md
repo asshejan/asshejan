@@ -34,7 +34,7 @@ company: Omicon Group
 fields_of_interests: ["AI Engineer", "ML Engineer",  "DevOps", "MLOps"]
 technical_background: ["C,C++", "Python", "Java", "PyTorch", "Tensorflow", "Docker" "AWS",  "MongoDB","postgreSQL","MySQL"]
 currently_learning: [ "Advanced MLOps"]
-hobbies: ["Movies", "Web Series", "Gaming", "Traveling", "Philosophy", "Politics", "Religion"]
+hobbies: ["Traveling", "Movies", "Web Series", "Gaming"]
 ```
 
 ### 🚀 Quick Facts
